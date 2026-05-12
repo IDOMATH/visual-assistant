@@ -70,4 +70,4 @@ PostgreSQL integration tests are skipped by default. Run them against a test dat
 ```bash
 DATABASE_URL="postgres://visual:visual@localhost:5432/visual_assistant?sslmode=disable" go test ./internal/store
 ```
-"# visual-assistant" 
+This was made using heavy AI usage.  Giving Codex the requirements and tweaking the code that came out to better align with how I would have done it and to better follow Golang best practices.
